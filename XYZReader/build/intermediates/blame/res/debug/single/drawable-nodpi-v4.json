@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/Users/matt/udacity/projects/xyzreader/XYZReader/build/intermediates/res/merged/debug/drawable-nodpi-v4/empty_detail.png",
+        "source": "/Users/matt/udacity/projects/xyzreader/XYZReader/src/main/res/drawable-nodpi/empty_detail.png"
+    },
+    {
+        "merged": "/Users/matt/udacity/projects/UdacityMaterialDesignApp/xyzreader/XYZReader/build/intermediates/res/merged/debug/drawable-nodpi-v4/empty_detail.png",
+        "source": "/Users/matt/udacity/projects/UdacityMaterialDesignApp/xyzreader/XYZReader/src/main/res/drawable-nodpi/empty_detail.png"
+    }
+]
